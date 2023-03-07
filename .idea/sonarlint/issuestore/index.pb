@@ -11,3 +11,11 @@ B
 store/.gitignore,3/b/3b6d710f170ec4ad16b20dbb6686231ae21aa8d6
 D
 store/src/styles.css,c/f/cf47ca89350ef20b0562badf90ea4ebedc34c50b
+K
+store/src/app/app.module.ts,9/4/942d8b534414290729acf4b26aa0c15e1401fbdd
+Z
+*store/src/app/pages/home/home.component.ts,b/4/b4e386fae2d58c81432b6edbd30751c4fdc423a4
+U
+%store/src/app/models/product.model.ts,6/0/602c989ebd3ccad0bd9cc0d3bf47b43bf5dc1103
+z
+Jstore/src/app/pages/home/components/product-box/product-box.component.html,0/8/08c6be772596c57d90d8025f227d25d7488a19e1
