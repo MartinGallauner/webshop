@@ -1,8 +1,6 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-B
-store/package.json,5/6/560da355529fef73746b9b1ca13691d0febabdfd
 ?
 store/README.md,3/3/33d1d20ffcc12d911c0359f1d90ad05b42f8024a
 ?
@@ -11,5 +9,3 @@ B
 store/.gitignore,3/b/3b6d710f170ec4ad16b20dbb6686231ae21aa8d6
 D
 store/src/styles.css,c/f/cf47ca89350ef20b0562badf90ea4ebedc34c50b
-U
-%store/src/app/models/product.model.ts,6/0/602c989ebd3ccad0bd9cc0d3bf47b43bf5dc1103
