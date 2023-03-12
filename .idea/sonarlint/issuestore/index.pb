@@ -1,11 +1,11 @@
 
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 ?
 store/README.md,3/3/33d1d20ffcc12d911c0359f1d90ad05b42f8024a
-?
-dist/output.css,c/b/cbab6641c76d6485039bc35669490ea09cdb3521
-@
-store/.gitignore,3/b/3b6d710f170ec4ad16b20dbb6686231ae21aa8d6
 D
 store/src/styles.css,c/f/cf47ca89350ef20b0562badf90ea4ebedc34c50b
+D
+store/src/index.html,1/7/174ac74ca5d960c55d95d9474e1b01a3b79c21aa
+R
+"store/src/app/models/cart.model.ts,4/0/40c8b137c21f4b49b35b6bf93c72e82341c20ec6
+\
+,store/src/app/pages/cart/cart.component.html,2/8/28b7359b23cb1b1f823f9e99dd3f0d762b4aa4d2

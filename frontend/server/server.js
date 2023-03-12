@@ -8,7 +8,7 @@ app.use(bodyparser.urlencoded({ extended: false }));
 app.use(bodyparser.json());
 app.use(cors({ origin: true, credentials: true }));
 
-const stripe = require("stripe")("add private key");
+const stripe = require("stripe")("sk_test_51Mjm7eFwvtcd6dxjwVNiOw4NhBUF3DioVtcC7FbF7M1CtoEjxmVAbWc6eTsRz0bSlmui56VloZwHoXkp2FK7QFoS00TCliUZTd");
 
 app.post("/checkout", async (req, res, next) => {
     try {
