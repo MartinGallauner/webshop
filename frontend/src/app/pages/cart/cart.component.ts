@@ -72,7 +72,7 @@ export class CartComponent implements OnInit {
     }
 
     onCheckout(): void {
-        this.http.post('http://localhost:4242/checkout', {
+        this.http.post('https://kaleidoscopic-blini-e38548.netlify.app/checkout', {
             items: this.cart.items
         }).subscribe(async(res: any) => {
             let stripe = await loadStripe('pk_test_51Mjm7eFwvtcd6dxjYWKZwrxJI43MFWwSwuVxnVD7c2yFkcoSE2tVBuR9d27rQFXOvKseDGxm77A3dtfv3dzDe8Q100TwB1Z1eO')
